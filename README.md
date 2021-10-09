@@ -13,6 +13,7 @@ PART II: Data Wrangling
 * Data Assessing 
 
 * Data Cleaning
+
 PART III: Univariate Exploration
 
 PART IV: Bivariate Exploration
@@ -119,3 +120,30 @@ Nautical_Twilight : Period of day based on nautical twilight.
 
 Astronomical_Twilight : Period of day based on astronomical twilight.
 
+### Univariate Exploration:
+
+Univariate exploration involves looking at trends in one variable at a time. In this section, the following will be explored:
+
+* Which state has the most accident records?
+* Which wind direction and which Timezone has the most accident records?
+* Traffic delay due to accident, and which side most of the acccidents occur?
+* Does weather_conditions and POI annotations will have any effects on accidents?
+* Which city, county, street has highest number of accidents count?
+* In which year, month, day and time do most of the accidents to happen?
+
+### Bivariate Exploration:
+
+Bivariate explorations look at whether two variables are correlated. In this section, the following will be explored:
+
+* Do visibility have effect on acccident?
+* Does Temperature and Wind_Chill have effect on accidents?
+* Does Weather_Condition and Temperature(F) related to accidents to occur?
+* Does Weather_Condition and latitude related to accidents ?
+* Which US State has highest number of accidents occur interms of count?
+*  Do temperature effect on accident to occur?
+
+### Multivariate Exploration:
+
+Multivariate exploration considers more than 2 variables to determine trends
+* Maximun delay in each year, each month, each day?
+* Accident delay trend?
